@@ -23,22 +23,22 @@ const questions = [
 ];
 
 // function to write README file
-function writeToFile(fileName, potato) {
-    fs.writeFile(fileName, potato, (err) => {
+// infoData is the data passing to fs.writeFile that is a object with data that will show up on the page
+function writeToFile(fileName, infoData) {
+    fs.writeFile(fileName, infoData, (err) => {
         if (err) throw err;
         console.log('The file has been saved!');
       });
 }
 
 
-// function to initialize program
+// function to initialize program before fs.writetoFile
 function init() {
     inquirer.prompt(questions)
-    .then( function (data) {
-        console.log(data)
-        const potato = generateMarkdown(data)
-        console.log(potato)
-        writeToFile("README.md", potato)
+    // .promt(questions) result is taking the questions array. 
+    .then( function (userAnswers) {
+        console.log(userAnswers)
+        writeToFile("README.md", generateMarkdown(userAnswers))
     }) 
 }
 
