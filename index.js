@@ -21,6 +21,12 @@ const questions = [
         type: "input",
         name: "installation",
         message: "What's needed for installation?" 
+    },
+    {
+        type: "list",
+        name: "license",
+        message: "What licenses did you use?",
+        choices: ["MIT", "ISC", "SIL", "GNU"] 
     }
 
    
