@@ -1,6 +1,5 @@
 # b
-
-    ## Description 
+## Description 
 b
 
     ## Table of Contents
@@ -8,12 +7,12 @@ b
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
-    ## Installation
+## Installation
 b
   
-    ```bash 
-    npm install
-    ```   
+```bash 
+npm install
+```   
 
 ## License 
 MIT
