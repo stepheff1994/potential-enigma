@@ -2,20 +2,20 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
-    ## Description 
+## Description 
 ${data.description}
 
-    ## Table of Contents
-    * [Installation](#installation)
+## Table of Contents
+  * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
-    ## Installation
+## Installation
 ${data.installation}
   
-    \`\`\`bash 
-    npm install
-    \`\`\`   
+\`\`\`bash 
+npm install
+\`\`\`   
 
 ## License 
 ${data.license}
