@@ -5,11 +5,6 @@ function generateMarkdown(data) {
 ## Description 
 ${data.description}
 
-## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
 ## Installation
 ${data.installation}
   
@@ -17,9 +12,30 @@ ${data.installation}
 npm install
 \`\`\`   
 
+## Usage
+${data.usage}
+
+## Credits
+${data.credits}
+
 ## License 
 ${data.license}
+
+## Features 
+${data.features}
+
+## Contributing 
+${data.contributing}
+
+## Tests
+${data.tests}
+
+
+
+
+
 `;
+
 }
 
 module.exports = generateMarkdown;

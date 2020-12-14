@@ -20,20 +20,41 @@ const questions = [
     {
         type: "input",
         name: "installation",
-        message: "What's needed for installation?" 
+        message: "What is needed for installation?" 
+    },
+    {
+        type: "input",
+        name: "usage",
+        message: "What are the insctructions for usage? Post any applicable screenshots here:" 
     },
     {
         type: "list",
         name: "license",
         message: "What licenses did you use?",
-        choices: ["MIT", "ISC", "SIL", "GNU"] 
-    }
+        choices: ["MIT", "ISC", "SIL", "GNU", "No current licsense"] 
+    },
+    {
+        type: "input",
+        name: "features",
+        message: "Please write you features here, if no features then leave blank" 
+    },
+    {
+        type: "input",
+        name: "contributing",
+        message: "Add a guideline here for future contributers if not leave blamk" 
+    },
+    {
+        type: "input",
+        name: "tests",
+        message: "Write tests for you application. If not leave blank" 
+    },
+
 
    
 
 ];
 
-// function to write README file
+
 // infoData is the data passing to fs.writeFile that is a object with data that will show up on the page
 function writeToFile(fileName, infoData) {
     fs.writeFile(fileName, infoData, (err) => {
