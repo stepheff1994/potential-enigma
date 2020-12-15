@@ -14,7 +14,7 @@ npm install
 b
 
 
-![images](./utils/images/screenshot1.png)
+![images]()
 
 
 ## Credits
@@ -22,7 +22,7 @@ undefined
 
 ## License 
 MIT
-https://img.shields.io/badge/license-MIT-BLUE
+[![license](https://img.shields.io/badge/license-MIT-BLUE)](https://shields.io)
 
 ## Features 
 
