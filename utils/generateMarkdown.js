@@ -24,6 +24,7 @@ ${data.credits}
 
 ## License 
 ${data.license}
+https://img.shields.io/badge/license-${data.license}-BLUE
 
 ## Features 
 ${data.features}

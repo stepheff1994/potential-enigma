@@ -21,7 +21,8 @@ b
 undefined
 
 ## License 
-No current licsense
+MIT
+https://img.shields.io/badge/license-MIT-BLUE
 
 ## Features 
 
