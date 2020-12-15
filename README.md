@@ -1,4 +1,4 @@
-# Blah
+# blah
 
 ## Description 
 blah
@@ -11,7 +11,7 @@ npm install
 ```   
 
 ## Usage
-utils/images/screenshot1.png
+na
 
 
 ## Credits
@@ -21,13 +21,19 @@ undefined
 No current licsense
 
 ## Features 
-
+blah
 
 ## Contributing 
-
+blah
 
 ## Tests
+blah
 
+## Questions
+undefined
+
+## Links
+[Link to github](https://github.com/stepheff1994)
 
 
 

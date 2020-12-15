@@ -15,6 +15,7 @@ npm install
 ## Usage
 ${data.usage}
 
+
 ## Credits
 ${data.credits}
 
@@ -29,6 +30,12 @@ ${data.contributing}
 
 ## Tests
 ${data.tests}
+
+## Questions
+${data.questions}
+
+## Links
+[Link to github](https://github.com/${data.links})
 
 
 

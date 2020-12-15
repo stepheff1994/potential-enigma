@@ -41,12 +41,17 @@ const questions = [
     {
         type: "input",
         name: "contributing",
-        message: "Add a guideline here for future contributers if not leave blamk" 
+        message: "Add a guideline here for future contributers if not leave blank" 
     },
     {
         type: "input",
         name: "tests",
         message: "Write tests for you application. If not leave blank" 
+    },
+    {
+        type: "input",
+        name: "links",
+        message: "Enter github username here:" 
     },
 
 
