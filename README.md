@@ -1,17 +1,20 @@
-# blah
+# b
 
 ## Description 
-blah
+b
 
 ## Installation
-blah
+b
   
 ```bash 
 npm install
 ```   
 
 ## Usage
-na
+b
+
+
+![images](./utils/images/screenshot1.png)
 
 
 ## Credits
@@ -21,19 +24,20 @@ undefined
 No current licsense
 
 ## Features 
-blah
+
 
 ## Contributing 
-blah
+
 
 ## Tests
-blah
+
 
 ## Questions
 undefined
 
 ## Links
 [Link to github](https://github.com/stepheff1994)
+
 
 
 

@@ -16,6 +16,9 @@ npm install
 ${data.usage}
 
 
+![images](${data.images})
+
+
 ## Credits
 ${data.credits}
 
@@ -36,6 +39,7 @@ ${data.questions}
 
 ## Links
 [Link to github](https://github.com/${data.links})
+
 
 
 

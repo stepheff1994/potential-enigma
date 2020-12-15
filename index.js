@@ -25,7 +25,12 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "What are the insctructions for usage? Post any applicable screenshots here:" 
+        message: "What are the insctructions for usage?" 
+    },
+    {
+        type: "input",
+        name: "images",
+        message: "Add any screenshots here (with relative path)" 
     },
     {
         type: "list",
