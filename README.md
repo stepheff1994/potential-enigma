@@ -4,7 +4,7 @@
 To assist users in either choosing a MacAir or MacBook
 
 ## Installation
-npm init
+
   
 ```bash 
 npm install
@@ -18,7 +18,7 @@ instructions
 
 
 ## Credits
-undefined
+
 
 ## License 
 

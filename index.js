@@ -33,6 +33,11 @@ const questions = [
         message: "Add any screenshots here (with relative path and seperated by commas)" 
     },
     {
+        type: "input",
+        name: "credits",
+        message: "Please enter credits" 
+    },
+    {
         type: "list",
         name: "license",
         message: "What licenses did you use?",
