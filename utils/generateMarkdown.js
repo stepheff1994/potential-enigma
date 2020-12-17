@@ -35,8 +35,6 @@ ${data.contributing}
 ## Tests
 ${data.tests}
 
-## Questions
-${data.questions}
 
 ## Links
 [Link to github](https://github.com/${data.links})

@@ -1,7 +1,7 @@
-# Choose my Mac
+# MacBuddy
 
 ## Description 
-A macbook or mac air based off of user input
+To assist users in either choosing a MacAir or MacBook
 
 ## Installation
 npm init
@@ -11,7 +11,7 @@ npm install
 ```   
 
 ## Usage
-description
+instructions
 
 
 ![images](./utils/images/choosemac.png)
@@ -33,8 +33,6 @@ undefined
 ## Tests
 
 
-## Questions
-undefined
 
 ## Links
 [Link to github](https://github.com/stepheff1994)
