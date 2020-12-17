@@ -14,7 +14,7 @@ const questions = [
     {
         type: "input",
         name: "description",
-        message: "Write the description of your project"
+        message: "Write the description of your project:"
        
     },
     {
@@ -30,7 +30,7 @@ const questions = [
     {
         type: "input",
         name: "images",
-        message: "Add any screenshots here (with relative path)" 
+        message: "Add any screenshots here (with relative path and seperated by commas)" 
     },
     {
         type: "list",
@@ -41,12 +41,12 @@ const questions = [
     {
         type: "input",
         name: "features",
-        message: "Please write you features here, if no features then leave blank" 
+        message: "Please write your features here, If no features then leave blank" 
     },
     {
         type: "input",
         name: "contributing",
-        message: "Add a guideline here for future contributers if not leave blank" 
+        message: "Add a guideline here for future contributers. If not leave blank" 
     },
     {
         type: "input",

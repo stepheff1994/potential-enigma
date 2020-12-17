@@ -23,7 +23,7 @@ ${data.usage}
 ${data.credits}
 
 ## License 
-${data.license}
+
 [![license](https://img.shields.io/badge/license-${data.license}-BLUE)](https://shields.io)
 
 ## Features 

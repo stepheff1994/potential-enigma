@@ -1,27 +1,27 @@
-# b
+# Choose my Mac
 
 ## Description 
-b
+A macbook or mac air based off of user input
 
 ## Installation
-b
+npm init
   
 ```bash 
 npm install
 ```   
 
 ## Usage
-b
+description
 
 
-![images]()
+![images](./utils/images/choosemac.png)
 
 
 ## Credits
 undefined
 
 ## License 
-MIT
+
 [![license](https://img.shields.io/badge/license-MIT-BLUE)](https://shields.io)
 
 ## Features 
